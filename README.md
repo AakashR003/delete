@@ -1,6 +1,6 @@
 delete
 
-![Velocity contour animation](Velocity.mp4)
+![Velocity contour animation](Velocity.gif)
 
 
 
